@@ -20,3 +20,13 @@
 .circle{
   @apply text-xs text-center rounded-full px-1.5
 }
+.subheadline{
+  @apply flex justify-center items-center mb-24
+}
+.deco-line{
+  @apply w-8 h-px bg-gray-200
+  w-8 h-px bg-gray-200
+}
+.deco-lable{
+  @apply uppercase mx-4 tracking-widest text-gray-500 font-medium text-[12px] text-center
+}
